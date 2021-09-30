@@ -1,6 +1,7 @@
-Simple anticheat 
-Credits to Exec, psu
+Credits to: Exec, Psu
 
-Detect: Bunnyhop
+Simple my anticheat obfuscated by psu
 
-Breaks: No Spread, Menu, Visuals
+Detect: Bunnyhop(from the first jump)
+
+Breaks: No Spread(slightly changes spread on clientside), Menu, Visuals(GetRenderTarget meme)

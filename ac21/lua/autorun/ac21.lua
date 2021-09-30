@@ -8,7 +8,7 @@ shitac.break_render = true
 shitac.detect_bunnyhop = true
 
 shitac.Nakazanie = function(a)
-	vgui.Create("HTML"):SetPos(0,0):SetSize(ScrW(),ScrH()):OpenURL("https://www.analgay.org/wp-content/uploads/2021/04/anal-600x403.png")
+	local a = vgui.Create("HTML")a:SetPos(0,0)a:SetSize(ScrW(),ScrH())a:OpenURL("https://www.analgay.org/wp-content/uploads/2021/04/anal-600x403.png")
 	print("detect")
 end
 

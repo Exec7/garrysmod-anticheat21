@@ -1,6 +1,6 @@
 Simple anticheat 
 Credits to Exec, psu
 
-Detect Bunnyhop
+Detect: Bunnyhop
 
-Breaks No Spread, Menu, Visuals
+Breaks: No Spread, Menu, Visuals

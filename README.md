@@ -4,7 +4,7 @@ Simple my clientside anticheat obfuscated by psu, no backdoors https://github.co
 
 Detect: 
 
-Bunnyhop(from the first jump)
+Bunnyhop - from the first jump
 
 Breaks:
 

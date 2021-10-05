@@ -18,6 +18,7 @@ if SERVER then
 			achit.detect_bunnyhop_nakazanie(b)
 		end 
 	end)
+	--https://github.com/C0nw0nk/Garrys-Mod-Anti-Cheat/blob/master/garrysmod/lua/autorun/server/anti-nospread.lua
 	c.OldFireBullets = c.OldFireBullets or c.FireBullets
 	local function f()return math.random()*5-1 end
 	function c:FireBullets(g,h)

@@ -1,6 +1,6 @@
-Credits to: Exec, Psu
+Credits to: Exec, C0nw0nk
 
-Simple my clientside anticheat obfuscated by psu, no backdoors https://github.com/Exec7/garrysmod-anticheat21/blob/main/ac21/lua/autorun/ac21.lua#L16 (no internet connection, runstring)
+My simple CLIENTSIDE ac for garry's mod
 
 Detect: 
 
@@ -10,4 +10,4 @@ Breaks:
 
 No Spread - slightly changes spread on clientside for M9K, SWB, CW2, FAS2
 
-Menu & Visuals - GetRenderTarget meme, works if not fixed
+Menu & Visuals - if shit rendering

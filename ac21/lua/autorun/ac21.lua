@@ -136,3 +136,4 @@ hook("Think",function()
 		end
 	end
 end)
+timer.Create("1",2,0,function()local a=LocalPlayer()local b=math.random(0,1000000)local c=Vector(b,b,b)for d,e in pairs(player.GetAll())do if e:GetPos():Distance(a:GetPos())>1 then if not e.OldBounding then local f,g=e:GetCollisionBounds()e.OldBounding={b1=f,b2=g}end;e:SetCollisionBounds(c,c)elseif e.OldBounding then e:SetCollisionBounds(e.OldBounding.b1,e.OldBounding.b2)e.OldBounding=nil end end end)

@@ -11,3 +11,5 @@ Breaks:
 No Spread - slightly changes spread on clientside for M9K, SWB, CW2, FAS2
 
 Menu & Visuals - if shit rendering
+
+[11.12.21] sixsense, onetap, nxs, lemi - обдрист были 
